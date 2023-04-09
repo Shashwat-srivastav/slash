@@ -3,6 +3,9 @@
   "name": "SLASH",
   "description": "Base Level Extension",
   "version": "1.0",
+  "background":{
+     "service_worker":"background.js"
+  }
   "action": {
     "default_popup": "popup.html",
     "default_icon": "favicon-16X16.png"
