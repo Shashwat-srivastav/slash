@@ -5,7 +5,8 @@
   "version": "1.0",
   "background":{
      "service_worker":"background.js"
-  }
+  },
+  "permissions":["webRequest","webRequestBlocking","<all_urls>"],
   "action": {
     "default_popup": "popup.html",
     "default_icon": "favicon-16X16.png"
