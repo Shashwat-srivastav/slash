@@ -5,6 +5,6 @@
   "version": "1.0",
   "action": {
     "default_popup": "popup.html",
-    "default_icon": "slash.png"
+    "default_icon": "favicon-16X16.png"
   }
 }
